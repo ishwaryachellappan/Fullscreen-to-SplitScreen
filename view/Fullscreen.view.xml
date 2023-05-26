@@ -1,0 +1,5 @@
+<mvc:View controllerName="com.sap.app.demo.project1.controller.Fullscreen"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+   <Button text="Click" press="onFullscreen"></Button>
+</mvc:View>
